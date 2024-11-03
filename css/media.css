@@ -15,7 +15,11 @@
 
 /* Large devices (desktops, 992px and up)  */
 @media (min-width: 992px) and (max-width: 1199.98px) {
-
+    /* about */
+    .about_img {
+        margin: 113px 0 20px 0px;
+        box-shadow: -13px 13px 0px 2px rgb(255, 214, 14, 1);
+    }
  }
 
 /* Extra Large devices (desktops, 1200px and up)  */
